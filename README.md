@@ -24,7 +24,7 @@ Cada estudiante deberá modificar este archivo **README.md**, colocando un emoji
 12. 🦁 **Josue Esteban Castañeda Palomo**
 14. 🦋 **Herly Johana Villamizar**
 15. :D **kevin santiago mosquera perea**
-15.🍕**Fernanda Gonzalez Zuluaga**
+ 15. 🍕**Fernanda Gonzalez Zuluaga**
 
 
 
